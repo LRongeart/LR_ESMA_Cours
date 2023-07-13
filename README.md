@@ -7,7 +7,7 @@
 </div>
 
 
->This Notion HUB's sole purpose is to share information and orchestrate production throughough the scholar year, and share intel/resources accross the students.\
+>This Notion HUB's sole purpose is to share information and orchestrate production throughough the scholar year, and share intel/resources between students and teachers.\
 >As it holds valuable intel - Unless if found otherwise, there is no incentive to share this page beyond known circles; although it's public and could then be.   
 
 
