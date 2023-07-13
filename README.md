@@ -60,17 +60,13 @@ This Notion HUB's sole purpose is to share information and orchestrate productio
 As it holds valuable intel - Unless if found otherwise, there is no incentive to share this page beyond known circles; although it's public and could then be.   
 ```
 
-## A - TABLE OF CONTENT
-| Title      | Default value              | Type         | Description                                                                                                                                                  |
-| ----------- | -------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `LINKS`     | [`ESMA-TLS COMPOSITING HUB`](https://www.notion.so/loucasrongeart/12e3aa0145a64580bf8fb41189c8bc3e) | `hyperlink` | Link to the ESMA-TLS_COMPOSITING HUB |
-| `GITHUB`     | [`LR_ESMA_Cours_Repository`](https://github.com/LRongeart/LR_ESMA_Cours) | `hyperlink` | Link to the LR_ESMA_Cours GitHub Repository |
+## A - TABLE OF CONTENT\
+| `LINKS`     | [`ESMA-TLS COMPOSITING HUB`](https://www.notion.so/loucasrongeart/12e3aa0145a64580bf8fb41189c8bc3e) | `hyperlink` | Link to the ESMA-TLS_COMPOSITING HUB |\
+| `GITHUB`     | [`LR_ESMA_Cours_Repository`](https://github.com/LRongeart/LR_ESMA_Cours) | `hyperlink` | Link to the LR_ESMA_Cours GitHub Repository |\
 | `GITHUB`     | [`LR_ESMA_Cours_Repository`](https://github.com/LRongeart/LR_ESMA_Cours) | `hyperlink` | Link to the LR_ESMA_Cours GitHub Repository 'NewIssue' page |
 
 ## A - CONTACTS
-| Title      | Default value              | Type         | Description                                                                          |
-| ----------- | -------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `CONTACT`     | [`mailto:l.rongeart@ecolescreatives.com`](mailto:l.rongeart@ecolescreatives.com) | `hyperlink` | Link to create mail to Author |
+| `CONTACT`     | [`mailto:l.rongeart@ecolescreatives.com`](mailto:l.rongeart@ecolescreatives.com) | `hyperlink` | Link to create mail to Author |\
 | `CONTACT`     | `LRongeart` | `discordID` | Author DiscordID |
 
 
