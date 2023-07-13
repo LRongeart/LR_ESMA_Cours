@@ -68,5 +68,5 @@ Link to Notion HUB -- [ESMA-TLS COMPOSITING HUB](https://www.notion.so/loucasron
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒	|\
 ▒▒ C - CONTACTS ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒	|\
 ¤=-------------------------------------------------------------------------------------------------------=¤\
-1- [mailto:l.rongeart@ecolescreatives.com](https://www.notion.so/loucasrongeart/12e3aa0145a64580bf8fb41189c8bc3e)\
+1- [mailto:l.rongeart@ecolescreatives.com](mailto:l.rongeart@ecolescreatives.com)\
 2- MP Discord@ ’ LRongeart ’\
