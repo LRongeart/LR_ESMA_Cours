@@ -1,7 +1,7 @@
 <div align="center">
 	<h1>LR_ESMA_Cours</h1>
 	<p>
-		<b>Repository for the <a href="[https://developers.notion.com](https://loucasrongeart.notion.site/loucasrongeart/12e3aa0145a64580bf8fb41189c8bc3e)">ESMA-TLS_Compositing HUB</a></b>
+		<b>Repository for the <a href="[https://developers.notion.com](https://loucasrongeart.notion.site/loucasrongeart/12e3aa0145a64580bf8fb41189c8bc3e)">ESMA-TLS_COMPOSITING_HUB</a></b>
 	</p>
 	<br>
 </div>
