@@ -6,54 +6,6 @@
 	<br>
 </div>
 
-<!-- Filename:index.html -->
-<html lang="en">
-<head>
-	<meta charset="UTF-8" />
-	<meta http-equiv="X-UA-Compatible"
-		content="IE=edge" />
-	<meta name="viewport"
-		content="width=device-width, initial-scale=1.0" />
-	<style>
-		body {
-			padding: 25px;
-			background-color: white;
-			color: black;
-			font-size: 25px;
-		}
-
-		.dark-mode {
-			background-color: black;
-			color: white;
-		}
-
-		.light-mode {
-			background-color: white;
-			color: black;
-		}
-	</style>
-</head>
-
-<body>
-	<h3 id="DarkModetext">Dark Mode is OFF</h3>
-	<button onclick="darkMode()">Darkmode</button>
-	<button onclick="lightMode()">LightMode</button>
-	<script>
-		function darkMode() {
-			let element = document.body;
-			let content = document.getElementById("DarkModetext");
-			element.className = "dark-mode";
-			content.innerText = "Dark Mode is ON";
-		}
-		function lightMode() {
-			let element = document.body;
-			let content = document.getElementById("DarkModetext");
-			element.className = "light-mode";
-			content.innerText = "Dark Mode is OFF";
-		}
-	</script>
-</body>
-</html>
 
 >This Notion HUB's sole purpose is to share information and orchestrate production throughough the scholar year, and share intel/resources accross the students.\
 >As it holds valuable intel - Unless if found otherwise, there is no incentive to share this page beyond known circles; although it's public and could then be.   
