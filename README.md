@@ -55,10 +55,9 @@
 </body>
 </html>
 
-```
-This Notion HUB's sole purpose is to share information and orchestrate production throughough the scholar year, and share intel/resources accross the students.
-As it holds valuable intel - Unless if found otherwise, there is no incentive to share this page beyond known circles; although it's public and could then be.   
-```
+>This Notion HUB's sole purpose is to share information and orchestrate production throughough the scholar year, and share intel/resources accross the students.\
+>As it holds valuable intel - Unless if found otherwise, there is no incentive to share this page beyond known circles; although it's public and could then be.   
+
 
 ## A - TABLE OF CONTENT
 | LINKS     |   `ESMA-TLS COMPOSITING HUB` -- [https://www.notion.so/loucasrongeart/12e3aa0145a64580bf8fb41189c8bc3e](https://www.notion.so/loucasrongeart/12e3aa0145a64580bf8fb41189c8bc3e)\
