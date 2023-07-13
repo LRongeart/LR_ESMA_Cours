@@ -1,7 +1,6 @@
 # LR_ESMA_Cours
 
 <!-- Filename:index.html -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
@@ -9,9 +8,6 @@
 		content="IE=edge" />
 	<meta name="viewport"
 		content="width=device-width, initial-scale=1.0" />
-	<title>
-		How to Make Dark Mode for Websites using HTML CSS & JavaScript ?
-	</title>
 	<style>
 		body {
 			padding: 25px;
@@ -33,17 +29,6 @@
 </head>
 
 <body>
-	<h1>GeeksForGeeks</h1>
-
-	<p>
-		This is a sample GeeksForGeeks Text.
-		Dark Mode Websites using Html CSS &
-		Javascript
-	</p>
-
-	<img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200122115631/GeeksforGeeks210.png" />
-
 	<h3 id="DarkModetext">Dark Mode is OFF</h3>
 	<button onclick="darkMode()">Darkmode</button>
 	<button onclick="lightMode()">LightMode</button>
