@@ -64,7 +64,7 @@
 | GITHUB    | `LR_ESMA_Cours_Repository Root` -- [https://github.com/LRongeart/LR_ESMA_Cours]([https://github.com/LRongeart/LR_ESMA_Cours/issues/new](https://github.com/LRongeart/LR_ESMA_Cours))\
 | GITHUB    | `LR_ESMA_Cours_Repository Issues` -- [https://github.com/LRongeart/LR_ESMA_Cours/issues/new](https://github.com/LRongeart/LR_ESMA_Cours/issues/new)
 
-## A - CONTACTS
+## B - CONTACTS
 | CONTACT     | `Author E-Mail` -- l.rongeart@ecolescreatives.com\
 | CONTACT     | `Author DiscordID` -- LRongeart
 
