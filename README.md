@@ -15,7 +15,7 @@
 ## A - TABLE OF CONTENT
 | LINKS     |   `ESMA-TLS_COMPOSITING_HUB` -- [https://www.notion.so/loucasrongeart/12e3aa0145a64580bf8fb41189c8bc3e](https://www.notion.so/loucasrongeart/12e3aa0145a64580bf8fb41189c8bc3e)\
 | GITHUB    | `LR_ESMA_Cours_Repository Root` -- [https://github.com/LRongeart/LR_ESMA_Cours](https://github.com/LRongeart/LR_ESMA_Cours)\
-| GITHUB    | `LR_ESMA_Cours_Repository Issues` -- [https://github.com/LRongeart/LR_ESMA_Cours/issues/new](https://github.com/LRongeart/LR_ESMA_Cours/issues/new)
+| GITHUB    | `LR_ESMA_Cours_Repository Issues` -- [https://github.com/LRongeart/LR_ESMA_Cours/issues/new](https://github.com/LRongeart/LR_ESMA_Cours/issues/new)\
 | GITHUB    | `ESMA-TLS NUKEutilities Repository Root` -- [https://github.com/LRongeart/NUKEutilities](https://github.com/LRongeart/NUKEutilities))
 
 ## B - CONTACTS
